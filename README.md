@@ -12,3 +12,5 @@ Machine Learning Algorithms from Scratch
 5.Gaussian Naive Bayes
 
 6.Neural Network (With Batch Size and all types of activation Function)
+
+See Report for plots and Accuracies of Implemented Machine Learing Algorithm
